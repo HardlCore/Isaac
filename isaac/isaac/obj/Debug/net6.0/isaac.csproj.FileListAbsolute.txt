@@ -1,0 +1,15 @@
+C:\Users\PCs\source\repos\isaac\isaac\bin\Debug\net6.0\isaac.exe
+C:\Users\PCs\source\repos\isaac\isaac\bin\Debug\net6.0\isaac.deps.json
+C:\Users\PCs\source\repos\isaac\isaac\bin\Debug\net6.0\isaac.runtimeconfig.json
+C:\Users\PCs\source\repos\isaac\isaac\bin\Debug\net6.0\isaac.dll
+C:\Users\PCs\source\repos\isaac\isaac\bin\Debug\net6.0\isaac.pdb
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\isaac.csproj.AssemblyReference.cache
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\isaac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\isaac.AssemblyInfoInputs.cache
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\isaac.AssemblyInfo.cs
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\isaac.csproj.CoreCompileInputs.cache
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\isaac.dll
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\refint\isaac.dll
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\isaac.pdb
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\isaac.genruntimeconfig.cache
+C:\Users\PCs\source\repos\isaac\isaac\obj\Debug\net6.0\ref\isaac.dll
